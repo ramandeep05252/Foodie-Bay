@@ -1,5 +1,7 @@
-# Foodie-Bay
+
 # Restaurant Ratings Prediction and Enhancement
+
+# Foodie-Bay
 
 ## Executive Summary
 
